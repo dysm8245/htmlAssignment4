@@ -1,0 +1,33 @@
+/* *{
+    border: 1px solid red;
+} */
+body{
+  background-color: rgb(80, 123, 80);
+}
+a{
+  margin-right: 100px;
+  margin-left: 100px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.icons{
+  color: rgb(80, 123, 80);
+}
+.info{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+}
+.custom-img{
+  height: 250px;
+  width: 200px;
+}
+/* .carousel {
+    width:640px;
+    height:360px;
+  } */
+  /* .carousel-inner > .carousel-item > img {
+    width: 100px;
+    height: 400px;
+  } */
